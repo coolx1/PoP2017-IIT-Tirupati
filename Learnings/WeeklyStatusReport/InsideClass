@@ -7,7 +7,8 @@ A basic overview of software engineering.
 
 WEEK-2
 I have learnt how compiler and interpreter work
-Different paradigms of programming
+Different paradigms of programming(imperative,declarative,functional)
 The process of compilation and interpretation 
 The Backus-Naur-Form
 BNF abstractions
+How to abstract a program using production rules.
